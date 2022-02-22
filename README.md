@@ -1,6 +1,3 @@
-- 👋 Hi, I’m Daniel
-- 👀 I’m a Developer
-
 
 <!---
 daniel-mad/daniel-mad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
