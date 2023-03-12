@@ -12,13 +12,6 @@ Skills
 -   Node.js, Express.js
 -   SQL Server, MongoDB
 
-Projects
---------
-
-Here are some of the projects I've worked on:
-
--   [MovieFinder](https://github.com/daniel-mad/MovieFinder): A movie search application that users can search for movies and view details about each movie.
--   [Users API](https://github.com/daniel-mad/UsersAPI):A Users API that allows retrieving and deleting users based on their id, country, age, or name using in-memory storage and O(1) time complexity.
 
 Contact
 -------
