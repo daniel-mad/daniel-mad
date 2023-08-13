@@ -1,16 +1,16 @@
 Hi there, I'm Daniel 👋
 =================================
 
-I'm a Full Stack Web Developer with experience in Express.js, Node.js, React, and .NET Core. I have a passion for building web applications that are both functional and user-friendly. I have experience working with various web development frameworks, including React on the frontend, .NET Core on the backend, and Node.js with Express.js for full-stack development.
+I'm a Full Stack Web Developer with experience in Express.js, Node.js, React, and .NET Core. I have a passion for building web applications that are both functional and user-friendly. I have experience working with various web development frameworks, including React and Angular on the frontend, .NET Core on the backend, and Node.js with Express.js for full-stack development.
 
 Skills
 ------
 
 -   HTML, CSS, JavaScript
--   React
+-   React, Angular
 -   .NET Core
 -   Node.js, Express.js
--   SQL Server, MongoDB
+-   SQL Server, MongoDB, PostgreSQL
 
 
 Contact
